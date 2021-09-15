@@ -1,1 +1,1 @@
-# sapphire-viewer
+# Sapphire Point of Sale
